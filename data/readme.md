@@ -1,1 +1,1 @@
-In deze directory staat het bronbestand. Op dit moment verwacht het script een rds bestand, maar kan evt. ook direct aan een database gekoppeld worden. De brondata die in Amsterdam gebruikt is wordt uiteraard niet meegeleverd.
+In deze directory staat het bronbestand. Op dit moment verwacht het script een rds bestand met incidentdata, maar kan evt. ook direct aan een database gekoppeld worden. De brondata die in Amsterdam gebruikt is wordt uiteraard niet meegeleverd.
